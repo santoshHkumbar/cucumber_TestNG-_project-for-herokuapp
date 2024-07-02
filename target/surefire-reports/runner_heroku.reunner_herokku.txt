@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: runner_heroku.reunner_herokku
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.839 s - in runner_heroku.reunner_herokku
